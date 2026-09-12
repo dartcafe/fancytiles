@@ -2,12 +2,12 @@
     "cinnamon-version": [
         "6.2"
     ],
-    "uuid": "fancytiles@basgeertsema",
-    "name": "Fancy Tiles",
+    "uuid": "fancytiles@dartcafe",
+    "name": "Fancy Tiles Fork",
     "description": "Snap your windows to a flexible layout",
     "version": "1.1.0",
     "multiversion": false,
     "url": "https://github.com/basgeertsema/fancytiles",
-    "author": "Bas Geertsema",
+    "author": "dartcafe",
     "last-edited": 1751367688
 }
